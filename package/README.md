@@ -7,7 +7,7 @@ Get a video player
 `npm i ps-videoplayer`
 
 ```
-import {videoPlayer} from "https://cdn.jsdelivr.net/npm/ps-videoplayer@3.0.0/psVideoPlayer.js"
+import {videoPlayer} from "https://cdn.jsdelivr.net/npm/ps-videoplayer@3.0.2/psVideoPlayer.js"
 
 videoPlayer({src:"url",autoplay:true,mute:true})
 ```
@@ -15,7 +15,7 @@ videoPlayer({src:"url",autoplay:true,mute:true})
 Then you can also add css file to html 
 
 ```
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/ps-videoplayer@3.0.0/psVideoPlayer.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/ps-videoplayer@3.0.2/psVideoPlayer.css">
 ```
 
 ## Options
